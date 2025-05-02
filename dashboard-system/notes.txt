@@ -1,0 +1,6 @@
+React ko Redux, Vue has Pinia. When we have to share a state across we can use Pinia. Composition API mah also there is a way by which we can share the state. But this causes security vulnerabilities.
+
+## Store : 
+Store mah three concepts : state, getters, setters;
+Now store is from where any component can access the state make manipulations and move forward. Store mah chain testo elements haru rakhinxa which should be accessible throughout the webpage. Like user information that will be displayed everywhere.
+main.js is where we can assign any plugins just how we assign pinia.
