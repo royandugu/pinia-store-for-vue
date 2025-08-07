@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@storyblok/vue": "^9.2.1",
     "pinia": "^3.0.2"
   }
 }
